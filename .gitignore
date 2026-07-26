@@ -1,0 +1,36 @@
+# PlatformIO build and dependency outputs
+.pio/
+
+# Generated native-test/build evidence
+coverage/
+test-results/
+reports/
+*.gcda
+*.gcno
+*.gcov
+*.profraw
+*.profdata
+
+# Editor state
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# OS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Generated tool metadata
+compile_commands.json
+# Local agent/session state and machine-local virtual environments
+.gjc/
+gim6010/
+__pycache__/
+*.pyc
+docs/HERMES_HANDOVER_BLDCTUTO_2026-07-25.md
